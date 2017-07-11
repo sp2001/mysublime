@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"Emmet",
+		"Material Theme",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PackageResourceViewer"
+	]
+}

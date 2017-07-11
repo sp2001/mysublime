@@ -1,0 +1,4 @@
+[
+	{"keys":["control+shift+i"],"command":"reindent"},
+	{"keys":["control+shift+c"],"command":"title_case"}
+]
